@@ -1,0 +1,32 @@
+{
+  "name": "jnickbaughan-boe",
+  "version": "1.0.0",
+  "description": "the 'Todo app' is the new 'hello World app'!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNickBaughan/JNickBaughan-BOE.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "real estate",
+    "comps",
+    "boe"
+  ],
+  "author": "j nick baughan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNickBaughan/JNickBaughan-BOE/issues"
+  },
+  "homepage": "https://github.com/JNickBaughan/JNickBaughan-BOE#readme",
+  "dependencies": {
+    "express": "^4.13.2",
+    "sequelize": "^3.5.1",
+    "sqlite": "^2.9.0",
+    "sqlite3": "^3.1.10"
+  }
+}
